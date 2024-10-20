@@ -1,1 +1,0 @@
-# typscript_begining
